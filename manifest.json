@@ -1,7 +1,16 @@
-"icons": [
-  {
-    "src": " https://www.clipartmax.com/png/middle/0-4428_profiss%C3%B5es-e-of%C3%ADcios-construction-worker-clipart.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }
-]
+{
+  "short_name": "ChenHsong",
+  "name": "Chen Hsong Guide",
+  "icons": [
+    {
+      "src": "https://www.clipartmax.com/png/middle/0-4428_profiss%C3%B5es-e-of%C3%ADcios-construction-worker-clipart.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#0d0d0d",
+  "display": "standalone",
+  "theme_color": "#d4af37"
+}
