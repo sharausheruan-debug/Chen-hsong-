@@ -1,0 +1,16 @@
+{
+  "short_name": "ChenHsong",
+  "name": "Chen Hsong Multi-Language Guide",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5910/5910121.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0d0d0d",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#0d0d0d"
+}
